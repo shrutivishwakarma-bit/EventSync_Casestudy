@@ -1,2 +1,9 @@
 # EventSync_Casestudy
-Business Analyst project – EventSync app: Identified pain points, analyzed requirements, and created structured BA documentation (PID, BRD, user stories, wireframes) to improve inter-department event coordination.
+A 3-day project analyzing communication gaps in colleges, with solutions through EventSync.
+
+Includes:
+- Project Initiation Document (PID)
+- Business Requirement Document (BRD)
+- Wireframes 
+
+ Author: Shruti Vishwakarma | Aspiring Business Analyst
